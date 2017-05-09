@@ -5,6 +5,6 @@
 
 # The Full Stack Product Development Journey
 
-Follow along as we create a product from idea to launch 20 weeks.
+Follow along as we create a product from idea to launch in 20 weeks.
 
 [Start The Journey](https://www.youtube.com/embed/videoseries?list=PL9YBPmbctP4hSF3Runs61TGt7j1gjDj5z)
