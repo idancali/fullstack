@@ -8,6 +8,7 @@
 Follow along as we create an end-to-end software product from scratch in 20 weeks. We will start with the product story, the value proposition, then we will work our way up to the landing page, the mobile apps (iOS and Android), web app, API, cloud infrastructure and even blogging and creating a newsletter.
 
 [![START](https://img.shields.io/badge/START-YOUR_JOURNEY-green.svg)](https://www.youtube.com/playlist?list=PL9YBPmbctP4hSF3Runs61TGt7j1gjDj5z)
+[![SHARE](https://img.shields.io/badge/SHARE-ON_TWITTER-blue.svg)](https://twitter.com/intent/tweet?text=Loving%20the%20%23fsdpjourney%20with%20@idancali%20http://github.com/idancali/fullstack%20%23fullstack%20%23productdevelopment)
 
 # Roadmap
 
