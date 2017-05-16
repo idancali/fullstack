@@ -5,10 +5,15 @@
 
 # The Full Stack Product Development Journey
 
-Follow along as we create a product from idea to launch in 20 weeks.
+Follow along as we create an end-to-end software product from scratch in 20 weeks. We will start with the product story, the value proposition, then we will work our way up to the landing page, the mobile apps (iOS and Android), web app, API, cloud infrastructure and even blogging and creating a newsletter.
+
+[![WEEK1](https://img.shields.io/badge/week_1-DONE-green.svg)](week1)
+[![WEEK2](https://img.shields.io/badge/week_2-DONE-green.svg)](week2)
+[![WEEK3](https://img.shields.io/badge/week_3-STARTED-blue.svg)](week3)
+[![WEEK3](https://img.shields.io/badge/week_3-UPCOMING-gray.svg)](week4)
+[![WEEK3](https://img.shields.io/badge/week_5-UPCOMING-gray.svg)](week5)
 
 [Start The Journey](https://www.youtube.com/playlist?list=PL9YBPmbctP4hSF3Runs61TGt7j1gjDj5z)
-
 
 # Roadmap
 
@@ -32,20 +37,3 @@ Follow along as we create a product from idea to launch in 20 weeks.
 ## [Week 18](week18)
 ## [Week 19](week19)
 ## [Week 20](week20)
-
-# AWS DevOps
-
-```
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Sid": "PublicReadGetObject",
-            "Effect": "Allow",
-            "Principal": "*",
-            "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::www.carmel.io/*"
-        }
-    ]
-}
-```
