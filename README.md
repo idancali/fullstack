@@ -7,7 +7,31 @@
 
 Follow along as we create a product from idea to launch in 20 weeks.
 
-[Start The Journey](https://www.youtube.com/embed/videoseries?list=PL9YBPmbctP4hSF3Runs61TGt7j1gjDj5z)
+[Start The Journey](https://www.youtube.com/playlist?list=PL9YBPmbctP4hSF3Runs61TGt7j1gjDj5z)
+
+
+# Roadmap
+
+## :white_check_mark: [Week 1](week1)
+## :white_check_mark: [Week 2](week2)
+## :arrow_forward: [Week 3](week3)
+## [Week 4](week4)
+## [Week 5](week5)
+## [Week 6](week6)
+## [Week 7](week7)
+## [Week 8](week8)
+## [Week 9](week9)
+## [Week 10](week10)
+## [Week 11](week11)
+## [Week 12](week12)
+## [Week 13](week13)
+## [Week 14](week14)
+## [Week 15](week15)
+## [Week 16](week16)
+## [Week 17](week17)
+## [Week 18](week18)
+## [Week 19](week19)
+## [Week 20](week20)
 
 # AWS DevOps
 
