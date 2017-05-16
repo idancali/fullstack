@@ -2,9 +2,9 @@
 Creating A Product From Idea To Launch In 20 Weeks.
 
 # Week 2: The Landing Page
+[![WEEK2](https://img.shields.io/badge/Week_2-DONE-green.svg)](week2)
 
-
-# AWS DevOps
+### S3 Static Website Bucket Policy
 
 ```
 {
